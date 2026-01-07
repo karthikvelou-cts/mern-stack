@@ -1,2 +1,2 @@
 # mern-stack
-mern-stack
+mern-stack-dev
